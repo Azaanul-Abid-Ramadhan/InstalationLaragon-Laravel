@@ -21,12 +21,12 @@ Dokumentasi ini menjelaskan cara menginstal **Laragon** sebagai local developmen
 3. **Menjalankan Laragon**
    - Buka Laragon
    - Klik tombol **Start All** untuk menjalankan Apache dan MySQL
-    <img src="image/laragonStr.png" alt="laragon start" width="400">
+    <img src="image/laragonStr.png" alt="laragon start" width="700">
 
 4. **Cek di Browser**
    - Buka `http://localhost` di browser
    - Jika muncul halaman Laragon, maka instalasi berhasil
-    <img src="image/laragonStarting.png" alt="laragon start" width="400">
+    <img src="image/laragonStrarting.png" alt="laragon start" width="700">
 
 ---
 
