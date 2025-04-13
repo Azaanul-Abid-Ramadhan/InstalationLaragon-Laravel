@@ -80,7 +80,8 @@ Pastikan Laragon sudah berjalan, dan Composer sudah terinstal. Versi Full Larago
    ```
    - Jika muncul halaman welcome Laravel, berarti berhasil 🎉
    - ![Laravel Welcome Page](https://laravel.com/img/logomark.min.svg)
-     <img src="image/laravelStrarting.png" alt="laragon start" width="700">
+     
+     <img src="image/laravelStarting.png" alt="laravel start" width="700">
 
 
 ---
