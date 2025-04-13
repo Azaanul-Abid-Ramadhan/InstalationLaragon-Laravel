@@ -86,6 +86,6 @@ Pastikan Laragon sudah berjalan, dan Composer sudah terinstal. Versi Full Larago
 ## 📌 Referensi
 
 - [Laragon Official Site](https://laragon.org)
-- [Laravel Official Docs](https://laravel.com/docs)
+- [Laravel Official Docs](https://laravel.com/docs/12.x)
 
 ---
