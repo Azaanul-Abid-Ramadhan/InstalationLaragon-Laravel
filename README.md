@@ -40,7 +40,7 @@ Pastikan Laragon sudah berjalan, dan Composer sudah terinstal. Versi Full Larago
 
 1. **Buka Terminal Laragon**
    - Buka `Laragon > Terminal`
-   - <img src="image/laragonCmd.png" alt="laragon start" width="400">
+   - <img src="image/laragonCmd.png" alt="laragon start" width="700">
 
 2. **Masuk ke folder www**
    ```bash
@@ -51,27 +51,27 @@ Pastikan Laragon sudah berjalan, dan Composer sudah terinstal. Versi Full Larago
    ```bash
    composer global require laravel/installer
    ```
-   <img src="image/laravel.png" alt="laragon start" width="400">
+   <img src="image/laravel.png" alt="laragon start" width="500">
    
 4. **Buat Folder Proyek**
    Gantilah `contohApp` dengan nama folder proyek kamu:
    ```bash
    laravel new contohApp
    ```
-   <img src="image/laravelFolder.png" alt="laragon start" width="400">
+   <img src="image/laravelFolder.png" alt="laragon start" width="500">
 
 5. **Masuk ke Dalam Folder Proyek**
    Gantilah `contohApp` dengan nama folder proyek kamu:
    ```bash
    cd contohApp
    ```
-   <img src="image/cd.png" alt="laragon start" width="400">
+   <img src="image/cd.png" alt="laragon start" width="500">
 
 6. **Jalankan Laravel**
    ```bash
    php artisan serve
    ```
-   <img src="image/laravelServe.png" alt="laragon start" width="400">
+   <img src="image/laravelServe.png" alt="laragon start" width="500">
    
 7. **Akses di Browser**
    Setelah instalasi selesai, buka:
