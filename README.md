@@ -40,7 +40,7 @@ Pastikan Laragon sudah berjalan, dan Composer sudah terinstal. Versi Full Larago
 
 1. **Buka Terminal Laragon**
    - Buka `Laragon > Terminal`
-   - <img src="image/laragonCmd.png" alt="laragon start" width="700">
+    <img src="image/laragonCmd.png" alt="laragon start" width="700">
 
 2. **Masuk ke folder www**
    ```bash
