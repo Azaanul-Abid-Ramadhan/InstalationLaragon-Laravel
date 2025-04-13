@@ -11,7 +11,7 @@ Dokumentasi ini menjelaskan cara menginstal **Laragon** sebagai local developmen
 1. **Download Laragon**
    - Kunjungi [https://laragon.org/download](https://laragon.org/download)
    - Pilih versi **Full** untuk kebutuhan PHP, Apache, MySQL, dan Laravel
-   - <img src="image/laragon.png" alt="laragon instal" width="1000">
+    <img src="image/laragon.png" alt="laragon instal" width="1000">
    
 2. **Instalasi**
    - Jalankan installer dan ikuti petunjuknya
@@ -21,12 +21,12 @@ Dokumentasi ini menjelaskan cara menginstal **Laragon** sebagai local developmen
 3. **Menjalankan Laragon**
    - Buka Laragon
    - Klik tombol **Start All** untuk menjalankan Apache dan MySQL
-   - <img src="image/laragonStr.png" alt="laragon start" width="400">
+    <img src="image/laragonStr.png" alt="laragon start" width="400">
 
 4. **Cek di Browser**
    - Buka `http://localhost` di browser
    - Jika muncul halaman Laragon, maka instalasi berhasil
-   - <img src="image/laragonStarting.png" alt="laragon start" width="400">
+    <img src="image/laragonStarting.png" alt="laragon start" width="400">
 
 ---
 
